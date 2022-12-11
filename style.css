@@ -1,0 +1,25 @@
+body{
+    font-family: 'poppins',sans-serif; 
+     
+}
+h1{
+    font-size: 42px;
+}
+.name{
+    color:orange;
+}
+.button{
+    background-color: rgb(235, 72, 12);
+    color: #fff;
+    padding: 5px 13px;
+    
+}
+.half-width{
+    width:40%;
+    float:left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
